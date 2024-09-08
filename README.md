@@ -73,5 +73,3 @@ Pour toute question ou support, veuillez contacter :
 - **Hugo76_macha**
 
 ---
-
-**Remarque** : Ce README est un modèle de base. Veuillez l'ajuster en fonction des spécificités et des besoins de votre projet.
